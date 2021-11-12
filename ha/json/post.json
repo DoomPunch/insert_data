@@ -1,0 +1,31 @@
+{
+    "id": 0,
+    "itemsCode": "",
+    "itemsName_LIS": "尿素",
+    "itemsCode_Request": "UREA",
+    "itemsCode_LIS": "UREA",
+    "groupId": 0,
+    "itemsrangelists": [{
+        "aId": 0,
+        "minAge": "1",
+        "maxAge": "90",
+        "sex": 2,
+        "range": "[1~10]",
+        "minRange": "1",
+        "maxRange": "10",
+        "id": 0,
+        "isValid": true,
+        "sexCode": 0,
+        "sexId": 2
+    }],
+    "isValid": true,
+    "isCalcul": false,
+    "liS_MinRange": 1,
+    "liS_MaxRange": 90,
+    "liS_RangeValues": null,
+    "isOpenChannel": false,
+    "systemId": 11,
+    "itemsCode_Request_Name": "尿素",
+    "isActive": true,
+    "itemslists": []
+}

@@ -1,0 +1,780 @@
+{
+    "Code": 0,
+    "ErrorMessage": "成功",
+    "Payload": [{
+        "id": 4,
+        "itemCode": "ALT~丙氨酸氢基转移酶",
+        "itemNameCN": "丙氨酸氢基转移酶",
+        "itemNameEN": "ALT"
+    }, {
+        "id": 5,
+        "itemCode": "AST~天门冬氨酸氢基转移酶",
+        "itemNameCN": "天门冬氨酸氢基转移酶",
+        "itemNameEN": "AST"
+    }, {
+        "id": 6,
+        "itemCode": "GGT~γ - 谷氨酰转肽酶",
+        "itemNameCN": "γ - 谷氨酰转肽酶",
+        "itemNameEN": "GGT"
+    }, {
+        "id": 8,
+        "itemCode": "BIL-D~直接胆红素",
+        "itemNameCN": "直接胆红素",
+        "itemNameEN": "Bilirubin-direct"
+    }, {
+        "id": 9,
+        "itemCode": "PALB~前白蛋白",
+        "itemNameCN": "前白蛋白",
+        "itemNameEN": "Prealbumin"
+    }, {
+        "id": 10,
+        "itemCode": "CHE~胆碱酯酶",
+        "itemNameCN": "胆碱酯酶",
+        "itemNameEN": "Cholinesterase"
+    }, {
+        "id": 11,
+        "itemCode": "UREA~尿素",
+        "itemNameCN": "尿素",
+        "itemNameEN": "Urea"
+    }, {
+        "id": 12,
+        "itemCode": "BUN~尿素氮",
+        "itemNameCN": "尿素氮",
+        "itemNameEN": "BUN"
+    }, {
+        "id": 13,
+        "itemCode": "CREA~肌酐(酶法)",
+        "itemNameCN": "肌酐(酶法)",
+        "itemNameEN": "Creatinine Enz."
+    }, {
+        "id": 14,
+        "itemCode": "UA~尿酸",
+        "itemNameCN": "尿酸",
+        "itemNameEN": "Uric Acid"
+    }, {
+        "id": 15,
+        "itemCode": "B2MG~β2 微球蛋白",
+        "itemNameCN": "β2 微球蛋白",
+        "itemNameEN": "β2-Microglobulin"
+    }, {
+        "id": 16,
+        "itemCode": "mALB~微量白蛋白",
+        "itemNameCN": "微量白蛋白",
+        "itemNameEN": "Albumin(Tina-quant)"
+    }, {
+        "id": 17,
+        "itemCode": "CYSC~胱抑素 C",
+        "itemNameCN": "胱抑素 C",
+        "itemNameEN": "Cystatin C"
+    }, {
+        "id": 18,
+        "itemCode": "A1MG~a1 微球蛋白",
+        "itemNameCN": "a1 微球蛋白",
+        "itemNameEN": "a1-Microglobulin"
+    }, {
+        "id": 19,
+        "itemCode": "TPUC~尿液/脑脊液总蛋白",
+        "itemNameCN": "尿液/脑脊液总蛋白",
+        "itemNameEN": "Total Protein U/CSF"
+    }, {
+        "id": 20,
+        "itemCode": "TRANS~转铁蛋白",
+        "itemNameCN": "转铁蛋白",
+        "itemNameEN": "Transferrin"
+    }, {
+        "id": 21,
+        "itemCode": "CK~肌酸激酶",
+        "itemNameCN": "肌酸激酶",
+        "itemNameEN": "CK"
+    }, {
+        "id": 22,
+        "itemCode": "CKMB~肌酸激酶MB型同工酶",
+        "itemNameCN": "肌酸激酶MB型同工酶",
+        "itemNameEN": "CK-MB"
+    }, {
+        "id": 23,
+        "itemCode": "LDH~乳酸脱氢酶",
+        "itemNameCN": "乳酸脱氢酶",
+        "itemNameEN": "LDH"
+    }, {
+        "id": 24,
+        "itemCode": "Hs-CRP~超敏C反应蛋白",
+        "itemNameCN": "超敏C反应蛋白",
+        "itemNameEN": "CRP High sensitivity"
+    }, {
+        "id": 25,
+        "itemCode": "HCY~同型半胱氨酸",
+        "itemNameCN": "同型半胱氨酸",
+        "itemNameEN": "HCY"
+    }, {
+        "id": 26,
+        "itemCode": "LP(a)~脂蛋白 a",
+        "itemNameCN": "脂蛋白 a",
+        "itemNameEN": "Lipoprotein(a)"
+    }, {
+        "id": 27,
+        "itemCode": "TRIG~甘油三酯",
+        "itemNameCN": "甘油三酯",
+        "itemNameEN": "Triglycerides"
+    }, {
+        "id": 28,
+        "itemCode": "TRIGB~甘油三酯(去甘油空白)",
+        "itemNameCN": "甘油三酯(去甘油空白)",
+        "itemNameEN": "TRIGB"
+    }, {
+        "id": 29,
+        "itemCode": "CHOL~总胆固醇",
+        "itemNameCN": "总胆固醇",
+        "itemNameEN": "CHOL"
+    }, {
+        "id": 30,
+        "itemCode": "Apo A I~载脂蛋白A1",
+        "itemNameCN": "载脂蛋白A1",
+        "itemNameEN": "APO A1"
+    }, {
+        "id": 31,
+        "itemCode": "Apo B~载脂蛋白B",
+        "itemNameCN": "载脂蛋白B",
+        "itemNameEN": "APO B"
+    }, {
+        "id": 32,
+        "itemCode": "HDL-C~高密度脂蛋白胆固醇",
+        "itemNameCN": "高密度脂蛋白胆固醇",
+        "itemNameEN": "HDL Cholesterol"
+    }, {
+        "id": 33,
+        "itemCode": "LDL-C~低密度脂蛋白胆固醇",
+        "itemNameCN": "低密度脂蛋白胆固醇",
+        "itemNameEN": "LDL Cholesterol"
+    }, {
+        "id": 34,
+        "itemCode": "FERR~铁蛋白",
+        "itemNameCN": "铁蛋白",
+        "itemNameEN": "Ferritin"
+    }, {
+        "id": 35,
+        "itemCode": "UIBC~不饱和铁结合力",
+        "itemNameCN": "不饱和铁结合力",
+        "itemNameEN": "UIBC"
+    }, {
+        "id": 36,
+        "itemCode": "Iron~铁",
+        "itemNameCN": "铁",
+        "itemNameEN": "Iron"
+    }, {
+        "id": 37,
+        "itemCode": "sTfR~可溶性转铁蛋白受体",
+        "itemNameCN": "可溶性转铁蛋白受体",
+        "itemNameEN": "Soluble Transferrin Receptor"
+    }, {
+        "id": 38,
+        "itemCode": "CRP~C反应蛋白",
+        "itemNameCN": "C反应蛋白",
+        "itemNameEN": "CRP"
+    }, {
+        "id": 39,
+        "itemCode": "D-Dimer~D-二聚体",
+        "itemNameCN": "D-二聚体",
+        "itemNameEN": "D-Dimer"
+    }, {
+        "id": 40,
+        "itemCode": "KAPP~Kappa 轻链",
+        "itemNameCN": "Kappa 轻链",
+        "itemNameEN": "Kappa Light Chains"
+    }, {
+        "id": 41,
+        "itemCode": "LAMB~Lambda 轻链",
+        "itemNameCN": "Lambda 轻链",
+        "itemNameEN": "Lambda Light Chains"
+    }, {
+        "id": 42,
+        "itemCode": "C3C~补体 C3c",
+        "itemNameCN": "补体 C3c",
+        "itemNameEN": "C3c"
+    }, {
+        "id": 43,
+        "itemCode": "C4~补体 C4",
+        "itemNameCN": "补体 C4",
+        "itemNameEN": "C4"
+    }, {
+        "id": 44,
+        "itemCode": "HAPT~触珠蛋白",
+        "itemNameCN": "触珠蛋白",
+        "itemNameEN": "Haptoglobin"
+    }, {
+        "id": 45,
+        "itemCode": "MYO~肌红蛋白",
+        "itemNameCN": "肌红蛋白",
+        "itemNameEN": "Myoglobin"
+    }, {
+        "id": 46,
+        "itemCode": "PHNO~苯巴比妥",
+        "itemNameCN": "苯巴比妥",
+        "itemNameEN": "Phenobarbital"
+    }, {
+        "id": 47,
+        "itemCode": "PHNY~苯妥英",
+        "itemNameCN": "苯妥英",
+        "itemNameEN": "Phenytoin"
+    }, {
+        "id": 48,
+        "itemCode": "VALP~丙戊酸",
+        "itemNameCN": "丙戊酸",
+        "itemNameEN": "Valproic Acid"
+    }, {
+        "id": 49,
+        "itemCode": "CARB~卡马西平",
+        "itemNameCN": "卡马西平",
+        "itemNameEN": "CARB"
+    }, {
+        "id": 50,
+        "itemCode": "LI~锂",
+        "itemNameCN": "锂",
+        "itemNameEN": "Lithium"
+    }, {
+        "id": 51,
+        "itemCode": "SALI~水杨酸盐",
+        "itemNameCN": "水杨酸盐",
+        "itemNameEN": "Salicylate"
+    }, {
+        "id": 52,
+        "itemCode": "VANC~万古霉素",
+        "itemNameCN": "万古霉素",
+        "itemNameEN": "VANC"
+    }, {
+        "id": 53,
+        "itemCode": "MPA~总霉酚酸",
+        "itemNameCN": "总霉酚酸",
+        "itemNameEN": "Total Mycophenolic Acid"
+    }, {
+        "id": 54,
+        "itemCode": "ETOH~乙醇",
+        "itemNameCN": "乙醇",
+        "itemNameEN": "Ethanol"
+    }, {
+        "id": 55,
+        "itemCode": "HbA1c~糖化血红蛋白",
+        "itemNameCN": "糖化血红蛋白",
+        "itemNameEN": "HbA1c"
+    }, {
+        "id": 56,
+        "itemCode": "GLU~葡萄糖",
+        "itemNameCN": "葡萄糖",
+        "itemNameEN": "Glucose"
+    }, {
+        "id": 57,
+        "itemCode": "FRUC~果糖胺",
+        "itemNameCN": "果糖胺",
+        "itemNameEN": "Fructosamine"
+    }, {
+        "id": 58,
+        "itemCode": "TSH~促甲状腺激素",
+        "itemNameCN": "促甲状腺激素",
+        "itemNameEN": "TSH"
+    }, {
+        "id": 59,
+        "itemCode": "T3~三碘甲状腺原氨酸",
+        "itemNameCN": "三碘甲状腺原氨酸",
+        "itemNameEN": "T3"
+    }, {
+        "id": 60,
+        "itemCode": "T4~甲状腺素",
+        "itemNameCN": "甲状腺素",
+        "itemNameEN": "T4"
+    }, {
+        "id": 61,
+        "itemCode": "FT3~游离三碘甲状腺原氨酸",
+        "itemNameCN": "游离三碘甲状腺原氨酸",
+        "itemNameEN": "FT3"
+    }, {
+        "id": 62,
+        "itemCode": "FT4~游离甲状腺素",
+        "itemNameCN": "游离甲状腺素",
+        "itemNameEN": "FT4"
+    }, {
+        "id": 63,
+        "itemCode": "T-Uptake~甲状腺素结合力",
+        "itemNameCN": "甲状腺素结合力",
+        "itemNameEN": "T-Uptake"
+    }, {
+        "id": 64,
+        "itemCode": "TG~甲状腺球蛋白",
+        "itemNameCN": "甲状腺球蛋白",
+        "itemNameEN": "TG"
+    }, {
+        "id": 65,
+        "itemCode": "Anti-TG~抗甲状腺球蛋白抗体",
+        "itemNameCN": "抗甲状腺球蛋白抗体",
+        "itemNameEN": "Anti-TG"
+    }, {
+        "id": 66,
+        "itemCode": "Anti-TPO~抗甲状腺过氧化物酶抗体",
+        "itemNameCN": "抗甲状腺过氧化物酶抗体",
+        "itemNameEN": "Anti-TPO"
+    }, {
+        "id": 67,
+        "itemCode": "Anti-TSHR~促甲状腺受体抗体",
+        "itemNameCN": "促甲状腺受体抗体",
+        "itemNameEN": "Anti-TSHR"
+    }, {
+        "id": 68,
+        "itemCode": "Calcitonin~降钙素",
+        "itemNameCN": "降钙素",
+        "itemNameEN": "Calcitonin"
+    }, {
+        "id": 69,
+        "itemCode": "HCG+β~人绒毛膜促性腺激素+β亚单位",
+        "itemNameCN": "人绒毛膜促性腺激素+β亚单位",
+        "itemNameEN": "HCG+β"
+    }, {
+        "id": 70,
+        "itemCode": "HCG STAT~急诊人绒毛膜促性腺激素",
+        "itemNameCN": "急诊人绒毛膜促性腺激素",
+        "itemNameEN": "HCG STAT"
+    }, {
+        "id": 71,
+        "itemCode": "LH~促黄体生成激素",
+        "itemNameCN": "促黄体生成激素",
+        "itemNameEN": "LH"
+    }, {
+        "id": 72,
+        "itemCode": "FSH~促卵泡生成激素",
+        "itemNameCN": "促卵泡生成激素",
+        "itemNameEN": "FSH"
+    }, {
+        "id": 73,
+        "itemCode": "Testosterone~睾酮",
+        "itemNameCN": "睾酮",
+        "itemNameEN": "Testosterone"
+    }, {
+        "id": 74,
+        "itemCode": "Progesterone~孕酮",
+        "itemNameCN": "孕酮",
+        "itemNameEN": "Progesterone"
+    }, {
+        "id": 75,
+        "itemCode": "Prolactin~催乳素",
+        "itemNameCN": "催乳素",
+        "itemNameEN": "Prolactin"
+    }, {
+        "id": 76,
+        "itemCode": "ACTH~促肾上腺皮质激素",
+        "itemNameCN": "促肾上腺皮质激素",
+        "itemNameEN": "ACTH"
+    }, {
+        "id": 77,
+        "itemCode": "Cortisol~皮质醇",
+        "itemNameCN": "皮质醇",
+        "itemNameEN": "Cortisol"
+    }, {
+        "id": 78,
+        "itemCode": "DHEA-S~硫酸脱氢表雄甾酮",
+        "itemNameCN": "硫酸脱氢表雄甾酮",
+        "itemNameEN": "DHEA-S"
+    }, {
+        "id": 79,
+        "itemCode": "Estradiol~雌二醇",
+        "itemNameCN": "雌二醇",
+        "itemNameEN": "Estradiol"
+    }, {
+        "id": 80,
+        "itemCode": "SHBG~性激素结合球蛋白",
+        "itemNameCN": "性激素结合球蛋白",
+        "itemNameEN": "SHBG"
+    }, {
+        "id": 81,
+        "itemCode": "hGH~人生长激素",
+        "itemNameCN": "人生长激素",
+        "itemNameEN": "hGH"
+    }, {
+        "id": 82,
+        "itemCode": "AMH~抗缪勒管激素",
+        "itemNameCN": "抗缪勒管激素",
+        "itemNameEN": "AMH"
+    }, {
+        "id": 83,
+        "itemCode": "IGF-1~胰岛素样生长因子 1",
+        "itemNameCN": "胰岛素样生长因子 1",
+        "itemNameEN": "IGF-1"
+    }, {
+        "id": 84,
+        "itemCode": "Anti-HAV~甲肝病毒抗体",
+        "itemNameCN": "甲肝病毒抗体",
+        "itemNameEN": "Anti-HAV total"
+    }, {
+        "id": 85,
+        "itemCode": "Anti-HAV IgM~甲肝病毒抗体IgM",
+        "itemNameCN": "甲肝病毒抗体IgM",
+        "itemNameEN": "Anti-HAV IgM"
+    }, {
+        "id": 86,
+        "itemCode": "HBsAg~乙肝病毒表面抗原",
+        "itemNameCN": "乙肝病毒表面抗原",
+        "itemNameEN": "HBsAg"
+    }, {
+        "id": 87,
+        "itemCode": "HBsAg quant~乙肝病毒表面抗原定量",
+        "itemNameCN": "乙肝病毒表面抗原定量",
+        "itemNameEN": "HBsAg quantification"
+    }, {
+        "id": 88,
+        "itemCode": "HBsAg confirmatory~乙肝病毒表面抗原确证试验",
+        "itemNameCN": "乙肝病毒表面抗原确证试验",
+        "itemNameEN": "HBsAg confirmatory"
+    }, {
+        "id": 89,
+        "itemCode": "Anti-HBs~乙肝病毒表面抗体",
+        "itemNameCN": "乙肝病毒表面抗体",
+        "itemNameEN": "Anti-HBs"
+    }, {
+        "id": 90,
+        "itemCode": "HBeAg~乙肝病毒e抗原",
+        "itemNameCN": "乙肝病毒e抗原",
+        "itemNameEN": "HBeAg"
+    }, {
+        "id": 91,
+        "itemCode": "Anti-HBe~乙肝病毒e抗体",
+        "itemNameCN": "乙肝病毒e抗体",
+        "itemNameEN": "Anti-HBe"
+    }, {
+        "id": 92,
+        "itemCode": "Anti-HBc~乙肝病毒核心抗体",
+        "itemNameCN": "乙肝病毒核心抗体",
+        "itemNameEN": "Anti-HBc"
+    }, {
+        "id": 93,
+        "itemCode": "Anti-HBc IgM~乙肝病毒核心抗体IgM",
+        "itemNameCN": "乙肝病毒核心抗体IgM",
+        "itemNameEN": "Anti-HBc IgM"
+    }, {
+        "id": 94,
+        "itemCode": "Anti-HCV~丙肝病毒抗体",
+        "itemNameCN": "丙肝病毒抗体",
+        "itemNameEN": "Anti-HCV"
+    }, {
+        "id": 95,
+        "itemCode": "HIV Ag~艾滋病抗原",
+        "itemNameCN": "艾滋病抗原",
+        "itemNameEN": "HIV Ag"
+    }, {
+        "id": 96,
+        "itemCode": "HIV Ag Confirmatory~艾滋病抗原确证实验",
+        "itemNameCN": "艾滋病抗原确证实验",
+        "itemNameEN": "HIV Ag Confirmatory"
+    }, {
+        "id": 97,
+        "itemCode": "HIV Combi PT~艾滋病抗原 / 抗体",
+        "itemNameCN": "艾滋病抗原 / 抗体",
+        "itemNameEN": "HIV Combi PT"
+    }, {
+        "id": 98,
+        "itemCode": "HIV Duo~艾滋病抗原 / 抗",
+        "itemNameCN": "艾滋病抗原 / 抗",
+        "itemNameEN": "HIV Duo"
+    }, {
+        "id": 99,
+        "itemCode": "Syphilis~梅毒螺旋体抗体",
+        "itemNameCN": "梅毒螺旋体抗体",
+        "itemNameEN": "Syphilis"
+    }, {
+        "id": 100,
+        "itemCode": "HTLV Ⅰ/Ⅱ~人T淋巴细胞病毒I/II型抗体",
+        "itemNameCN": "人T淋巴细胞病毒I/II型抗体",
+        "itemNameEN": "HTLV Ⅰ/Ⅱ"
+    }, {
+        "id": 101,
+        "itemCode": "hs Troponin T STAT~急诊高敏肌钙蛋白 T",
+        "itemNameCN": "急诊高敏肌钙蛋白 T",
+        "itemNameEN": "hs Troponin T STAT"
+    }, {
+        "id": 102,
+        "itemCode": "hs Troponin T~高敏肌钙蛋白 T",
+        "itemNameCN": "高敏肌钙蛋白 T",
+        "itemNameEN": "hs Troponin T"
+    }, {
+        "id": 103,
+        "itemCode": "CK-MB STAT~急诊肌酸肌酶 MB 同工酶",
+        "itemNameCN": "急诊肌酸肌酶 MB 同工酶",
+        "itemNameEN": "CK-MB STAT"
+    }, {
+        "id": 104,
+        "itemCode": "CK-MB~肌酸肌酶 MB 同工酶",
+        "itemNameCN": "肌酸肌酶 MB 同工酶",
+        "itemNameEN": "CK-MB"
+    }, {
+        "id": 105,
+        "itemCode": "Myoglobin STAT~急诊肌红蛋白",
+        "itemNameCN": "急诊肌红蛋白",
+        "itemNameEN": "Myoglobin STAT"
+    }, {
+        "id": 106,
+        "itemCode": "Myoglobin~肌红蛋白",
+        "itemNameCN": "肌红蛋白",
+        "itemNameEN": "Myoglobin"
+    }, {
+        "id": 107,
+        "itemCode": "Digoxin~地高辛",
+        "itemNameCN": "地高辛",
+        "itemNameEN": "Digoxin"
+    }, {
+        "id": 108,
+        "itemCode": "Digitoxin~洋地黄毒苷",
+        "itemNameCN": "洋地黄毒苷",
+        "itemNameEN": "Digitoxin"
+    }, {
+        "id": 109,
+        "itemCode": "proBNP~N 型脑利钠肽前体",
+        "itemNameCN": "N 型脑利钠肽前体",
+        "itemNameEN": "proBNP"
+    }, {
+        "id": 110,
+        "itemCode": "proBNP STAT~急诊N 型脑利钠肽前体",
+        "itemNameCN": "急诊N 型脑利钠肽前体",
+        "itemNameEN": "proBNP STAT"
+    }, {
+        "id": 111,
+        "itemCode": "GDF-15~生长分化因子-15",
+        "itemNameCN": "生长分化因子-15",
+        "itemNameEN": "GDF-15"
+    }, {
+        "id": 112,
+        "itemCode": "AFP~甲胎蛋白",
+        "itemNameCN": "甲胎蛋白",
+        "itemNameEN": "AFP"
+    }, {
+        "id": 113,
+        "itemCode": "CEA~癌胚抗原",
+        "itemNameCN": "癌胚抗原",
+        "itemNameEN": "CEA"
+    }, {
+        "id": 114,
+        "itemCode": "tPSA~总前列腺特异性抗原",
+        "itemNameCN": "总前列腺特异性抗原",
+        "itemNameEN": "tPSA"
+    }, {
+        "id": 115,
+        "itemCode": "Free PSA~游离前列腺特异性抗原",
+        "itemNameCN": "游离前列腺特异性抗原",
+        "itemNameEN": "Free PSA"
+    }, {
+        "id": 116,
+        "itemCode": "CA 125~肿瘤相关抗原 125",
+        "itemNameCN": "肿瘤相关抗原 125",
+        "itemNameEN": "CA 125"
+    }, {
+        "id": 117,
+        "itemCode": "CA 15-3~肿瘤相关抗原 15-3",
+        "itemNameCN": "肿瘤相关抗原 15-3",
+        "itemNameEN": "CA 15-3"
+    }, {
+        "id": 118,
+        "itemCode": "CA 19-9~肿瘤相关抗原 19-9",
+        "itemNameCN": "肿瘤相关抗原 19-9",
+        "itemNameEN": "CA 19-9"
+    }, {
+        "id": 119,
+        "itemCode": "CA 72-4~肿瘤相关抗原 72-4",
+        "itemNameCN": "肿瘤相关抗原 72-4",
+        "itemNameEN": "CA 72-4"
+    }, {
+        "id": 120,
+        "itemCode": "CYFRA 21-1~非小细胞肺癌抗原",
+        "itemNameCN": "非小细胞肺癌抗原",
+        "itemNameEN": "CYFRA 21-1"
+    }, {
+        "id": 121,
+        "itemCode": "NSE~神经元特异性烯醇化酶",
+        "itemNameCN": "神经元特异性烯醇化酶",
+        "itemNameEN": "NSE"
+    }, {
+        "id": 122,
+        "itemCode": "S100~S100 蛋白",
+        "itemNameCN": "S100 蛋白",
+        "itemNameEN": "S100"
+    }, {
+        "id": 123,
+        "itemCode": "HE 4~人附睾蛋白4",
+        "itemNameCN": "人附睾蛋白4",
+        "itemNameEN": "HE 4"
+    }, {
+        "id": 124,
+        "itemCode": "proGRP~胃泌素释放肽前体",
+        "itemNameCN": "胃泌素释放肽前体",
+        "itemNameEN": "proGRP"
+    }, {
+        "id": 125,
+        "itemCode": "SCC~鳞状上皮细胞癌抗原",
+        "itemNameCN": "鳞状上皮细胞癌抗原",
+        "itemNameEN": "SCC"
+    }, {
+        "id": 126,
+        "itemCode": "Toxo IgG~弓形虫 IgG",
+        "itemNameCN": "弓形虫 IgG",
+        "itemNameEN": "Toxo IgG"
+    }, {
+        "id": 127,
+        "itemCode": "Toxo IgM~弓形虫 IgM",
+        "itemNameCN": "弓形虫 IgM",
+        "itemNameEN": "Toxo IgM"
+    }, {
+        "id": 128,
+        "itemCode": "Toxo IgG Avidity~弓形虫 IgG 抗体亲合力",
+        "itemNameCN": "弓形虫 IgG 抗体亲合力",
+        "itemNameEN": "Toxo IgG Avidity"
+    }, {
+        "id": 129,
+        "itemCode": "Rubella IgG~风疹 IgG",
+        "itemNameCN": "风疹 IgG",
+        "itemNameEN": "Rubella IgG"
+    }, {
+        "id": 130,
+        "itemCode": "Rubella IgM~风疹 IgM",
+        "itemNameCN": "风疹 IgM",
+        "itemNameEN": "Rubella IgM"
+    }, {
+        "id": 131,
+        "itemCode": "CMV lgG~巨细胞病毒 IgG",
+        "itemNameCN": "巨细胞病毒 IgG",
+        "itemNameEN": "CMV lgG"
+    }, {
+        "id": 132,
+        "itemCode": "CMV lgM~巨细胞病毒 IgM",
+        "itemNameCN": "巨细胞病毒 IgM",
+        "itemNameEN": "CMV lgM"
+    }, {
+        "id": 133,
+        "itemCode": "CMV IgG Avidity~巨细胞病毒 IgG 抗体亲合力",
+        "itemNameCN": "巨细胞病毒 IgG 抗体亲合力",
+        "itemNameEN": "CMV IgG Avidity"
+    }, {
+        "id": 134,
+        "itemCode": "HSV-1 IgG~单纯疱疹病毒 I 型 IgG",
+        "itemNameCN": "单纯疱疹病毒 I 型 IgG",
+        "itemNameEN": "HSV-1 IgG"
+    }, {
+        "id": 135,
+        "itemCode": "HSV-2 IgG~单纯疱疹病毒 II 型 IgG",
+        "itemNameCN": "单纯疱疹病毒 II 型 IgG",
+        "itemNameEN": "HSV-2 IgG"
+    }, {
+        "id": 136,
+        "itemCode": "C-Peptide~C 肽",
+        "itemNameCN": "C 肽",
+        "itemNameEN": "C-Peptide"
+    }, {
+        "id": 137,
+        "itemCode": "Insulin~胰岛素",
+        "itemNameCN": "胰岛素",
+        "itemNameEN": "Insulin"
+    }, {
+        "id": 138,
+        "itemCode": "Total Vitamin D~总维生素D",
+        "itemNameCN": "总维生素D",
+        "itemNameEN": "Total Vitamin D"
+    }, {
+        "id": 139,
+        "itemCode": "ß-Cross Laps~β- 胶原特殊序列",
+        "itemNameCN": "β- 胶原特殊序列",
+        "itemNameEN": "ß-Cross Laps"
+    }, {
+        "id": 140,
+        "itemCode": "N-MID Osteocal-cin~N-MID骨钙素",
+        "itemNameCN": "N-MID骨钙素",
+        "itemNameEN": "N-MID Osteocal-cin"
+    }, {
+        "id": 141,
+        "itemCode": "PTH~甲状旁腺激素",
+        "itemNameCN": "甲状旁腺激素",
+        "itemNameEN": "PTH"
+    }, {
+        "id": 142,
+        "itemCode": "PTH STAT~急诊甲状旁腺素",
+        "itemNameCN": "急诊甲状旁腺素",
+        "itemNameEN": "PTH STAT"
+    }, {
+        "id": 143,
+        "itemCode": "PTH (1-84)~生物全段甲状旁腺素",
+        "itemNameCN": "生物全段甲状旁腺素",
+        "itemNameEN": "PTH (1-84)"
+    }, {
+        "id": 144,
+        "itemCode": "Total-P1NP~总 I 型胶原氨基端延长肽",
+        "itemNameCN": "总 I 型胶原氨基端延长肽",
+        "itemNameEN": "Total-P1NP"
+    }, {
+        "id": 145,
+        "itemCode": "Cyclosporine~环孢霉素",
+        "itemNameCN": "环孢霉素",
+        "itemNameEN": "Cyclosporine"
+    }, {
+        "id": 146,
+        "itemCode": "Tacrolimus~他克莫司",
+        "itemNameCN": "他克莫司",
+        "itemNameEN": "Tacrolimus"
+    }, {
+        "id": 147,
+        "itemCode": "Sirolimus~西罗莫司",
+        "itemNameCN": "西罗莫司",
+        "itemNameEN": "Sirolimus"
+    }, {
+        "id": 148,
+        "itemCode": "Ferritin~铁蛋白",
+        "itemNameCN": "铁蛋白",
+        "itemNameEN": "Ferritin"
+    }, {
+        "id": 149,
+        "itemCode": "Vitamin B12~维生素B12",
+        "itemNameCN": "维生素B12",
+        "itemNameEN": "Vitamin B12"
+    }, {
+        "id": 150,
+        "itemCode": "Folate~叶酸",
+        "itemNameCN": "叶酸",
+        "itemNameEN": "Folate"
+    }, {
+        "id": 151,
+        "itemCode": "Folate RBC~红细胞内叶酸",
+        "itemNameCN": "红细胞内叶酸",
+        "itemNameEN": "Folate RBC"
+    }, {
+        "id": 152,
+        "itemCode": "sFLT-1~可溶性血管内皮生长因子受体-1",
+        "itemNameCN": "可溶性血管内皮生长因子受体-1",
+        "itemNameEN": "sFLT-1"
+    }, {
+        "id": 153,
+        "itemCode": "PLGF~胎盘生长因子",
+        "itemNameCN": "胎盘生长因子",
+        "itemNameEN": "PLGF"
+    }, {
+        "id": 154,
+        "itemCode": "Anti-CCP~抗环瓜氨酸肽抗体",
+        "itemNameCN": "抗环瓜氨酸肽抗体",
+        "itemNameEN": "Anti-CCP"
+    }, {
+        "id": 155,
+        "itemCode": "Free ßHCG~游离β-人绒毛膜促性腺激素",
+        "itemNameCN": "游离β-人绒毛膜促性腺激素",
+        "itemNameEN": "Free ßHCG"
+    }, {
+        "id": 156,
+        "itemCode": "PAPP-A~妊娠相关性血浆蛋白 A",
+        "itemNameCN": "妊娠相关性血浆蛋白 A",
+        "itemNameEN": "PAPP-A"
+    }, {
+        "id": 157,
+        "itemCode": "IL-6~白介素 -6",
+        "itemNameCN": "白介素 -6",
+        "itemNameEN": "IL-6"
+    }, {
+        "id": 158,
+        "itemCode": "PCT~降钙素原",
+        "itemNameCN": "降钙素原",
+        "itemNameEN": "PCT"
+    }, {
+        "id": 159,
+        "itemCode": "IgE~免疫球蛋白 E",
+        "itemNameCN": "免疫球蛋白 E",
+        "itemNameEN": "IgE"
+    }]
+}

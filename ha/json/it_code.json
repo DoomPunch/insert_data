@@ -1,0 +1,633 @@
+{
+    "Code": 0,
+    "ErrorMessage": "成功",
+    "Payload": {
+        "lisList": [{
+            "name": "a1 微球蛋白",
+            "label": "A1MG",
+            "isCalcultion": false
+        }, {
+            "name": "C 肽",
+            "label": "C-Peptide",
+            "isCalcultion": false
+        }, {
+            "name": "C反应蛋白",
+            "label": "CRP",
+            "isCalcultion": false
+        }, {
+            "name": "D-二聚体",
+            "label": "D-Dimer",
+            "isCalcultion": false
+        }, {
+            "name": "Kappa 轻链",
+            "label": "KAPP",
+            "isCalcultion": false
+        }, {
+            "name": "Lambda 轻链",
+            "label": "LAMB",
+            "isCalcultion": false
+        }, {
+            "name": "N 型脑利钠肽前体",
+            "label": "proBNP",
+            "isCalcultion": false
+        }, {
+            "name": "N-MID骨钙素",
+            "label": "N-MID Osteocal-cin",
+            "isCalcultion": false
+        }, {
+            "name": "S100 蛋白",
+            "label": "S100",
+            "isCalcultion": false
+        }, {
+            "name": "β- 胶原特殊序列",
+            "label": "ß-Cross Laps",
+            "isCalcultion": false
+        }, {
+            "name": "β2 微球蛋白",
+            "label": "B2MG",
+            "isCalcultion": false
+        }, {
+            "name": "γ - 谷氨酰转肽酶",
+            "label": "GGT",
+            "isCalcultion": false
+        }, {
+            "name": "万古霉素",
+            "label": "VANC",
+            "isCalcultion": false
+        }, {
+            "name": "三碘甲状腺原氨酸",
+            "label": "T3",
+            "isCalcultion": false
+        }, {
+            "name": "不饱和铁结合力",
+            "label": "UIBC",
+            "isCalcultion": false
+        }, {
+            "name": "丙戊酸",
+            "label": "VALP",
+            "isCalcultion": false
+        }, {
+            "name": "丙氨酸氢基转移酶",
+            "label": "ALT",
+            "isCalcultion": false
+        }, {
+            "name": "丙肝病毒抗体",
+            "label": "Anti-HCV",
+            "isCalcultion": false
+        }, {
+            "name": "乙肝病毒e抗体",
+            "label": "Anti-HBe",
+            "isCalcultion": false
+        }, {
+            "name": "乙肝病毒e抗原",
+            "label": "HBeAg",
+            "isCalcultion": false
+        }, {
+            "name": "乙肝病毒核心抗体",
+            "label": "Anti-HBc",
+            "isCalcultion": false
+        }, {
+            "name": "乙肝病毒核心抗体IgM",
+            "label": "Anti-HBc IgM",
+            "isCalcultion": false
+        }, {
+            "name": "乙肝病毒表面抗体",
+            "label": "Anti-HBs",
+            "isCalcultion": false
+        }, {
+            "name": "乙肝病毒表面抗原",
+            "label": "HBsAg",
+            "isCalcultion": false
+        }, {
+            "name": "乙肝病毒表面抗原定量",
+            "label": "HBsAg quant",
+            "isCalcultion": false
+        }, {
+            "name": "乙肝病毒表面抗原确证试验",
+            "label": "HBsAg confirmatory",
+            "isCalcultion": false
+        }, {
+            "name": "乙醇",
+            "label": "ETOH",
+            "isCalcultion": false
+        }, {
+            "name": "乳酸脱氢酶",
+            "label": "LDH",
+            "isCalcultion": false
+        }, {
+            "name": "人T淋巴细胞病毒I/II型抗体",
+            "label": "HTLV Ⅰ/Ⅱ",
+            "isCalcultion": false
+        }, {
+            "name": "人生长激素",
+            "label": "hGH",
+            "isCalcultion": false
+        }, {
+            "name": "人绒毛膜促性腺激素+β亚单位",
+            "label": "HCG+β",
+            "isCalcultion": false
+        }, {
+            "name": "人附睾蛋白4",
+            "label": "HE 4",
+            "isCalcultion": false
+        }, {
+            "name": "他克莫司",
+            "label": "Tacrolimus",
+            "isCalcultion": false
+        }, {
+            "name": "低密度脂蛋白胆固醇",
+            "label": "LDL-C",
+            "isCalcultion": false
+        }, {
+            "name": "促卵泡生成激素",
+            "label": "FSH",
+            "isCalcultion": false
+        }, {
+            "name": "促甲状腺受体抗体",
+            "label": "Anti-TSHR",
+            "isCalcultion": false
+        }, {
+            "name": "促甲状腺激素",
+            "label": "TSH",
+            "isCalcultion": false
+        }, {
+            "name": "促肾上腺皮质激素",
+            "label": "ACTH",
+            "isCalcultion": false
+        }, {
+            "name": "促黄体生成激素",
+            "label": "LH",
+            "isCalcultion": false
+        }, {
+            "name": "催乳素",
+            "label": "Prolactin",
+            "isCalcultion": false
+        }, {
+            "name": "免疫球蛋白 E",
+            "label": "IgE",
+            "isCalcultion": false
+        }, {
+            "name": "前白蛋白",
+            "label": "PALB",
+            "isCalcultion": false
+        }, {
+            "name": "单纯疱疹病毒 I 型 IgG",
+            "label": "HSV-1 IgG",
+            "isCalcultion": false
+        }, {
+            "name": "单纯疱疹病毒 II 型 IgG",
+            "label": "HSV-2 IgG",
+            "isCalcultion": false
+        }, {
+            "name": "卡马西平",
+            "label": "CARB",
+            "isCalcultion": false
+        }, {
+            "name": "可溶性血管内皮生长因子受体-1",
+            "label": "sFLT-1",
+            "isCalcultion": false
+        }, {
+            "name": "可溶性转铁蛋白受体",
+            "label": "sTfR",
+            "isCalcultion": false
+        }, {
+            "name": "叶酸",
+            "label": "Folate",
+            "isCalcultion": false
+        }, {
+            "name": "同型半胱氨酸",
+            "label": "HCY",
+            "isCalcultion": false
+        }, {
+            "name": "地高辛",
+            "label": "Digoxin",
+            "isCalcultion": false
+        }, {
+            "name": "天门冬氨酸氢基转移酶",
+            "label": "AST",
+            "isCalcultion": false
+        }, {
+            "name": "妊娠相关性血浆蛋白 A",
+            "label": "PAPP-A",
+            "isCalcultion": false
+        }, {
+            "name": "孕酮",
+            "label": "Progesterone",
+            "isCalcultion": false
+        }, {
+            "name": "尿液/脑脊液总蛋白",
+            "label": "TPUC",
+            "isCalcultion": false
+        }, {
+            "name": "尿素",
+            "label": "UREA",
+            "isCalcultion": false
+        }, {
+            "name": "尿素氮",
+            "label": "BUN",
+            "isCalcultion": false
+        }, {
+            "name": "尿酸",
+            "label": "UA",
+            "isCalcultion": false
+        }, {
+            "name": "巨细胞病毒 IgG",
+            "label": "CMV lgG",
+            "isCalcultion": false
+        }, {
+            "name": "巨细胞病毒 IgG 抗体亲合力",
+            "label": "CMV IgG Avidity",
+            "isCalcultion": false
+        }, {
+            "name": "巨细胞病毒 IgM",
+            "label": "CMV lgM",
+            "isCalcultion": false
+        }, {
+            "name": "弓形虫 IgG",
+            "label": "Toxo IgG",
+            "isCalcultion": false
+        }, {
+            "name": "弓形虫 IgG 抗体亲合力",
+            "label": "Toxo IgG Avidity",
+            "isCalcultion": false
+        }, {
+            "name": "弓形虫 IgM",
+            "label": "Toxo IgM",
+            "isCalcultion": false
+        }, {
+            "name": "微量白蛋白",
+            "label": "mALB",
+            "isCalcultion": false
+        }, {
+            "name": "急诊N 型脑利钠肽前体",
+            "label": "proBNP STAT",
+            "isCalcultion": false
+        }, {
+            "name": "急诊人绒毛膜促性腺激素",
+            "label": "HCG STAT",
+            "isCalcultion": false
+        }, {
+            "name": "急诊甲状旁腺素",
+            "label": "PTH STAT",
+            "isCalcultion": false
+        }, {
+            "name": "急诊肌红蛋白",
+            "label": "Myoglobin STAT",
+            "isCalcultion": false
+        }, {
+            "name": "急诊肌酸肌酶 MB 同工酶",
+            "label": "CK-MB STAT",
+            "isCalcultion": false
+        }, {
+            "name": "急诊高敏肌钙蛋白 T",
+            "label": "hs Troponin T STAT",
+            "isCalcultion": false
+        }, {
+            "name": "性激素结合球蛋白",
+            "label": "SHBG",
+            "isCalcultion": false
+        }, {
+            "name": "总 I 型胶原氨基端延长肽",
+            "label": "Total-P1NP",
+            "isCalcultion": false
+        }, {
+            "name": "总前列腺特异性抗原",
+            "label": "tPSA",
+            "isCalcultion": false
+        }, {
+            "name": "总维生素D",
+            "label": "Total Vitamin D",
+            "isCalcultion": false
+        }, {
+            "name": "总胆固醇",
+            "label": "CHOL",
+            "isCalcultion": false
+        }, {
+            "name": "总胆红素",
+            "label": "BIL-T",
+            "isCalcultion": false
+        }, {
+            "name": "总蛋白",
+            "label": "TP",
+            "isCalcultion": false
+        }, {
+            "name": "总霉酚酸",
+            "label": "MPA",
+            "isCalcultion": false
+        }, {
+            "name": "抗环瓜氨酸肽抗体",
+            "label": "Anti-CCP",
+            "isCalcultion": false
+        }, {
+            "name": "抗甲状腺球蛋白抗体",
+            "label": "Anti-TG",
+            "isCalcultion": false
+        }, {
+            "name": "抗甲状腺过氧化物酶抗体",
+            "label": "Anti-TPO",
+            "isCalcultion": false
+        }, {
+            "name": "抗缪勒管激素",
+            "label": "AMH",
+            "isCalcultion": false
+        }, {
+            "name": "果糖胺",
+            "label": "FRUC",
+            "isCalcultion": false
+        }, {
+            "name": "梅毒螺旋体抗体",
+            "label": "Syphilis",
+            "isCalcultion": false
+        }, {
+            "name": "水杨酸盐",
+            "label": "SALI",
+            "isCalcultion": false
+        }, {
+            "name": "洋地黄毒苷",
+            "label": "Digitoxin",
+            "isCalcultion": false
+        }, {
+            "name": "游离β-人绒毛膜促性腺激素",
+            "label": "Free ßHCG",
+            "isCalcultion": false
+        }, {
+            "name": "游离三碘甲状腺原氨酸",
+            "label": "FT3",
+            "isCalcultion": false
+        }, {
+            "name": "游离前列腺特异性抗原",
+            "label": "Free PSA",
+            "isCalcultion": false
+        }, {
+            "name": "游离甲状腺素",
+            "label": "FT4",
+            "isCalcultion": false
+        }, {
+            "name": "环孢霉素",
+            "label": "Cyclosporine",
+            "isCalcultion": false
+        }, {
+            "name": "甘油三酯",
+            "label": "TRIG",
+            "isCalcultion": false
+        }, {
+            "name": "甘油三酯(去甘油空白)",
+            "label": "TRIGB",
+            "isCalcultion": false
+        }, {
+            "name": "生物全段甲状旁腺素",
+            "label": "PTH (1-84)",
+            "isCalcultion": false
+        }, {
+            "name": "生长分化因子-15",
+            "label": "GDF-15",
+            "isCalcultion": false
+        }, {
+            "name": "甲状旁腺激素",
+            "label": "PTH",
+            "isCalcultion": false
+        }, {
+            "name": "甲状腺球蛋白",
+            "label": "TG",
+            "isCalcultion": false
+        }, {
+            "name": "甲状腺素",
+            "label": "T4",
+            "isCalcultion": false
+        }, {
+            "name": "甲状腺素结合力",
+            "label": "T-Uptake",
+            "isCalcultion": false
+        }, {
+            "name": "甲肝病毒抗体",
+            "label": "Anti-HAV",
+            "isCalcultion": false
+        }, {
+            "name": "甲肝病毒抗体IgM",
+            "label": "Anti-HAV IgM",
+            "isCalcultion": false
+        }, {
+            "name": "甲胎蛋白",
+            "label": "AFP",
+            "isCalcultion": false
+        }, {
+            "name": "癌胚抗原",
+            "label": "CEA",
+            "isCalcultion": false
+        }, {
+            "name": "白介素 -6",
+            "label": "IL-6",
+            "isCalcultion": false
+        }, {
+            "name": "白蛋白",
+            "label": "ALB",
+            "isCalcultion": false
+        }, {
+            "name": "皮质醇",
+            "label": "Cortisol",
+            "isCalcultion": false
+        }, {
+            "name": "直接胆红素",
+            "label": "BIL-D",
+            "isCalcultion": false
+        }, {
+            "name": "睾酮",
+            "label": "Testosterone",
+            "isCalcultion": false
+        }, {
+            "name": "硫酸脱氢表雄甾酮",
+            "label": "DHEA-S",
+            "isCalcultion": false
+        }, {
+            "name": "碱性磷酸酶",
+            "label": "ALP",
+            "isCalcultion": false
+        }, {
+            "name": "神经元特异性烯醇化酶",
+            "label": "NSE",
+            "isCalcultion": false
+        }, {
+            "name": "糖化血红蛋白",
+            "label": "HbA1c",
+            "isCalcultion": false
+        }, {
+            "name": "红细胞内叶酸",
+            "label": "Folate RBC",
+            "isCalcultion": false
+        }, {
+            "name": "维生素B12",
+            "label": "Vitamin B12",
+            "isCalcultion": false
+        }, {
+            "name": "肌红蛋白",
+            "label": "MYO",
+            "isCalcultion": false
+        }, {
+            "name": "肌酐(酶法)",
+            "label": "CREA",
+            "isCalcultion": false
+        }, {
+            "name": "肌酸激酶",
+            "label": "CK",
+            "isCalcultion": false
+        }, {
+            "name": "肌酸激酶MB型同工酶",
+            "label": "CKMB",
+            "isCalcultion": false
+        }, {
+            "name": "肿瘤相关抗原 125",
+            "label": "CA 125",
+            "isCalcultion": false
+        }, {
+            "name": "肿瘤相关抗原 15-3",
+            "label": "CA 15-3",
+            "isCalcultion": false
+        }, {
+            "name": "肿瘤相关抗原 19-9",
+            "label": "CA 19-9",
+            "isCalcultion": false
+        }, {
+            "name": "肿瘤相关抗原 72-4",
+            "label": "CA 72-4",
+            "isCalcultion": false
+        }, {
+            "name": "胃泌素释放肽前体",
+            "label": "proGRP",
+            "isCalcultion": false
+        }, {
+            "name": "胆碱酯酶",
+            "label": "CHE",
+            "isCalcultion": false
+        }, {
+            "name": "胎盘生长因子",
+            "label": "PLGF",
+            "isCalcultion": false
+        }, {
+            "name": "胰岛素",
+            "label": "Insulin",
+            "isCalcultion": false
+        }, {
+            "name": "胰岛素样生长因子 1",
+            "label": "IGF-1",
+            "isCalcultion": false
+        }, {
+            "name": "胱抑素 C",
+            "label": "CYSC",
+            "isCalcultion": false
+        }, {
+            "name": "脂蛋白 a",
+            "label": "LP(a)",
+            "isCalcultion": false
+        }, {
+            "name": "艾滋病抗原",
+            "label": "HIV Ag",
+            "isCalcultion": false
+        }, {
+            "name": "艾滋病抗原 / 抗",
+            "label": "HIV Duo",
+            "isCalcultion": false
+        }, {
+            "name": "艾滋病抗原 / 抗体",
+            "label": "HIV Combi PT",
+            "isCalcultion": false
+        }, {
+            "name": "艾滋病抗原确证实验",
+            "label": "HIV Ag Confirmatory",
+            "isCalcultion": false
+        }, {
+            "name": "苯妥英",
+            "label": "PHNY",
+            "isCalcultion": false
+        }, {
+            "name": "苯巴比妥",
+            "label": "PHNO",
+            "isCalcultion": false
+        }, {
+            "name": "葡萄糖",
+            "label": "GLU",
+            "isCalcultion": false
+        }, {
+            "name": "补体 C3c",
+            "label": "C3C",
+            "isCalcultion": false
+        }, {
+            "name": "补体 C4",
+            "label": "C4",
+            "isCalcultion": false
+        }, {
+            "name": "西罗莫司",
+            "label": "Sirolimus",
+            "isCalcultion": false
+        }, {
+            "name": "触珠蛋白",
+            "label": "HAPT",
+            "isCalcultion": false
+        }, {
+            "name": "超敏C反应蛋白",
+            "label": "Hs-CRP",
+            "isCalcultion": false
+        }, {
+            "name": "转铁蛋白",
+            "label": "TRANS",
+            "isCalcultion": false
+        }, {
+            "name": "载脂蛋白A1",
+            "label": "Apo A I",
+            "isCalcultion": false
+        }, {
+            "name": "载脂蛋白B",
+            "label": "Apo B",
+            "isCalcultion": false
+        }, {
+            "name": "铁",
+            "label": "Iron",
+            "isCalcultion": false
+        }, {
+            "name": "铁蛋白",
+            "label": "FERR",
+            "isCalcultion": false
+        }, {
+            "name": "锂",
+            "label": "LI",
+            "isCalcultion": false
+        }, {
+            "name": "降钙素",
+            "label": "Calcitonin",
+            "isCalcultion": false
+        }, {
+            "name": "降钙素原",
+            "label": "PCT",
+            "isCalcultion": false
+        }, {
+            "name": "雌二醇",
+            "label": "Estradiol",
+            "isCalcultion": false
+        }, {
+            "name": "非小细胞肺癌抗原",
+            "label": "CYFRA 21-1",
+            "isCalcultion": false
+        }, {
+            "name": "风疹 IgG",
+            "label": "Rubella IgG",
+            "isCalcultion": false
+        }, {
+            "name": "风疹 IgM",
+            "label": "Rubella IgM",
+            "isCalcultion": false
+        }, {
+            "name": "高密度脂蛋白胆固醇",
+            "label": "HDL-C",
+            "isCalcultion": false
+        }, {
+            "name": "高敏肌钙蛋白 T",
+            "label": "hs Troponin T",
+            "isCalcultion": false
+        }, {
+            "name": "鳞状上皮细胞癌抗原",
+            "label": "SCC",
+            "isCalcultion": false
+        }],
+        "riskList": [],
+        "ruleDetailList": null
+    }
+}
