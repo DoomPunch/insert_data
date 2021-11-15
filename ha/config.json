@@ -1,0 +1,19 @@
+{
+    "base_url": {
+        "dev": "http://139.217.234.156/aivalidation",
+        "test": "http://52.131.241.143/aivalidation",
+        "local": "http://192.168.11.105:53218"
+    },
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0",
+        "content-type": "application/json",
+        "Authorization": ""
+    },
+    "path": {
+        "syscode": "/api/v1/ConfigItem/getSystemList",
+        "item": "/api/v1/ConfigItem",
+        "department": "/api/v1/office/create"
+    }
+
+
+}
